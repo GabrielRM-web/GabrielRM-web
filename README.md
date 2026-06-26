@@ -6,28 +6,6 @@ Sou desenvolvedor web apaixonado por criar interfaces modernas, landing pages de
 
 💡 Sempre aprendendo, construindo e compartilhando novos projetos.
 
-<p align="left">
-    <a href="https://gabrielrm-web.github.io">
-        <img 
-            alt="Portfolio" 
-            title="Meu Portfólio" 
-            [![Portfólio](https://custom-icon-badges.demolab.com/badge/Portfólio-236ad3?style=for-the-badge&logo=browser&logoColor=white&labelColor=1155ba)](https://gabrielrm-web.github.io/gabrielmilani.github.io/)
-    </a>
-    <a href="https://github.com/GabrielRM-web?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GabrielRM-web?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/GabrielRM-web?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabrielRM-web?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
