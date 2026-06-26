@@ -11,7 +11,7 @@ Sou desenvolvedor web apaixonado por criar interfaces modernas, landing pages de
         <img 
             alt="Portfolio" 
             title="Meu Portfólio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portfólio-236ad3?style=for-the-badge&logo=browser&logoColor=white&labelColor=1155ba"
+            src="https://custom-icon-badges.demolab.com/badge/Portfólio-236ad3?style=for-the-badge&logo=browser&logoColor=white&labelColor=1155ba" />
         />
     </a>
     <a href="https://github.com/GabrielRM-web?tab=repositories&sort=stargazers">
